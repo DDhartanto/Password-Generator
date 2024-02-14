@@ -1,6 +1,6 @@
 # Password Generator 🔒
 
-A simple password generator tailored to the user!
+A password generation tool designed to boost account security by creating strong, randomized passwords tailored to individual user requirements.
 
 ![image](https://i.pinimg.com/originals/49/1e/cf/491ecfcebd2192e29b758ca798717ec6.gif)
 
