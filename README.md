@@ -11,4 +11,7 @@ A simple password generator tailored to the user!
 Here is an example of a user making a random password. They are able to choose how many characters, symbols, and numbers in their password.
 
 ## Usage 🚀
+### 1. Clone the Repository
+```
+gh repo clone DDhartanto/Password-Generator
 
