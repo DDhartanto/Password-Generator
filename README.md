@@ -14,3 +14,6 @@ Here is an example of a user making a random password. They are able to choose h
 ### 1. Clone the Repository
 ```
 https://github.com/DDhartanto/Password-Generator.git
+```
+### 2. Use through Replit
+If you don't want to download this or setup python, you can run this project directly from your browser with [repl.it](https://replit.com/@dylandhartanto4/Password-Generator)
