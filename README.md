@@ -6,4 +6,5 @@ A simple password generator tailored to the user!
 
 ## Demo 🎯
 
-<img >
+![ScreenShot]<img width="505" alt="Screenshot 2024-02-13 202006" src="https://github.com/DDhartanto/Password-Generator/assets/130509435/f303a8fb-b4c1-48a7-a490-90f990971191">
+
