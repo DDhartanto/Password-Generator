@@ -13,5 +13,4 @@ Here is an example of a user making a random password. They are able to choose h
 ## Usage 🚀
 ### 1. Clone the Repository
 ```
-gh repo clone DDhartanto/Password-Generator
-
+https://github.com/DDhartanto/Password-Generator.git
